@@ -2,6 +2,6 @@ import { useRouter } from "next/navigation";
 export default function Home() {
   const router=useRouter();
   return (
-   router.pust('/home')
+   router.push('/home')
   );
 }
