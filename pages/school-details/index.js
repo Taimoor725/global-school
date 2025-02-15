@@ -27,7 +27,7 @@ function Details() {
             
             
                 {/* INFO */}
-                <div className="w-1/2 mx-auto bg-white p-10 rounded-2xl shadow-md">
+                <div className="w-1/2 mx-auto h-[60vh] bg-white p-10 rounded-2xl shadow-md">
                     <div className="text-5xl font-bold text-gray-800 mb-6">More Details</div>
 
                     <div className="text-gray-700 text-4xl">
@@ -68,7 +68,7 @@ function Details() {
 
 
                 {/* Feed backs */}
-                <div className="w-full bg-white rounded-2xl shadow-md flex flex-col gap-10 p-3">
+                <div className="w-full h-[60vh] bg-white rounded-2xl shadow-md flex flex-col gap-10 p-3">
                     <div className="w-full border-4 h-[80vh] rounded-2xl">
                         <div className="max-w-full h-full overflow-y-auto overflow-x-hidden p-5">
                                 abc
